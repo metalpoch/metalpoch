@@ -1,13 +1,16 @@
-# ¡Hello World!
+# 💫 About Me:
 My name is Keiber Urbila, I am a Fullstack developer who loves new technologies. I have experience in telecommunications in traffic analysis, creating solutions that allow monitoring and visualizing network traffic.
 
-| Language - Technology |  |
-| ------------------- | ----- |
-| Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/115px-Python-logo-notext.svg.png"  width="25">           | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&duration=1000&pause=1000&color=00A78E&vCenter=true&width=210&height=20&lines=Pandas;Flask;Django)](#)  |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/320px-Node.js_logo.svg.png" width="50">             | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&duration=1000&pause=1000&color=00A78E&vCenter=true&width=210&height=20&lines=Express;React;Vercel+-+Serverless)](#)  |
-| WEB 🌐             | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&duration=1000&pause=1000&color=00A78E&vCenter=true&width=110&height=20&lines=HTML;CSS;Javascript)](#) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/216px-Gnu-bash-logo.svg.png"  width="50">             | [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&duration=1500&pause=2000&color=00A78E&vCenter=true&width=110&height=20&lines=Sys.+Admin)](#) |
+![](https://github-stats-alpha.vercel.app/api?username=metalpoch&cc=141321&tc=95e0da&ic=d83a7c&bc=fff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=metalpoch&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://github.com/metalpoch">
-	<img src="https://github-stats-alpha.vercel.app/api?username=metalpoch&cc=22272e&tc=fff&ic=00a78e&bc=000">
-</a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/keiberup/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keiber-urbila/)
+[![Threads](https://img.shields.io/badge/Threads-8A2BE2?logo=threads&logoColor=fff)](https://www.threads.net/@keiberup)
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=metalpoch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
