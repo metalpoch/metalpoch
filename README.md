@@ -1,8 +1,7 @@
 # 💫 About Me:
-My name is Keiber Urbila, I am a Fullstack developer who loves new technologies. I have experience in telecommunications in traffic analysis, creating solutions that allow monitoring and visualizing network traffic.
+My name is Keiber Urbila, I am a Fullstack developer who loves new technologies. I have experience in telecommunications in traffic analysis, creating solutions that allow monitoring and visualizing network traffic. Take a look at my [Portfolio](https://keiber-urbila.vercel.app/)
 
 ![](https://github-stats-alpha.vercel.app/api?username=metalpoch&cc=141321&tc=95e0da&ic=d83a7c&bc=fff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=metalpoch&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/keiberup/)
